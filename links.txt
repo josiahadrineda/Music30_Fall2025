@@ -1,0 +1,5 @@
+Lab3_Convolution_Markov
+https://datahub.berkeley.edu/user/jadrineda/notebooks/Music30_Fall2025.git/Lab3_Convolution_Markov/lab3.ipynb
+
+Assignment3_Convolution
+https://datahub.berkeley.edu/user/jadrineda/notebooks/Music30_Fall2025.git/Assignment3_Convolution/assignment3.ipynb
