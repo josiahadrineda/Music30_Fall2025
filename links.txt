@@ -1,5 +1,8 @@
 Lab3_Convolution_Markov
-https://datahub.berkeley.edu/user/jadrineda/notebooks/Music30_Fall2025.git/Lab3_Convolution_Markov/lab3.ipynb
+https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjosiahadrineda%2FMusic30_Fall2025.git&urlpath=tree%2FMusic30_Fall2025.git%2FLab3_Convolution_Markov%2Flab3.ipynb&branch=main
 
 Assignment3_Convolution
-https://datahub.berkeley.edu/user/jadrineda/notebooks/Music30_Fall2025.git/Assignment3_Convolution/assignment3.ipynb
+https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjosiahadrineda%2FMusic30_Fall2025.git&urlpath=tree%2FMusic30_Fall2025.git%2FAssignment3_Convolution%2Fassignment3.ipynb&branch=main
+
+Lab6_SoundTypes
+https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fjosiahadrineda%2FMusic30_Fall2025.git&urlpath=tree%2FMusic30_Fall2025.git%2FLab6_SoundTypes%2Flab6.ipynb&branch=main
